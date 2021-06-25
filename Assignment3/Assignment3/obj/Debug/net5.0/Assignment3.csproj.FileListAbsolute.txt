@@ -1,0 +1,16 @@
+E:\CITP4350\Week3\Assignment3\Assignment3\obj\Debug\net5.0\Assignment3.csproj.AssemblyReference.cache
+E:\CITP4350\Week3\Assignment3\Assignment3\obj\Debug\net5.0\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+E:\CITP4350\Week3\Assignment3\Assignment3\obj\Debug\net5.0\Assignment3.AssemblyInfoInputs.cache
+E:\CITP4350\Week3\Assignment3\Assignment3\obj\Debug\net5.0\Assignment3.AssemblyInfo.cs
+E:\CITP4350\Week3\Assignment3\Assignment3\obj\Debug\net5.0\Assignment3.csproj.CoreCompileInputs.cache
+E:\CITP4350\Week3\Assignment3\Assignment3\bin\Debug\net5.0\Assignment3.exe
+E:\CITP4350\Week3\Assignment3\Assignment3\bin\Debug\net5.0\Assignment3.deps.json
+E:\CITP4350\Week3\Assignment3\Assignment3\bin\Debug\net5.0\Assignment3.runtimeconfig.json
+E:\CITP4350\Week3\Assignment3\Assignment3\bin\Debug\net5.0\Assignment3.runtimeconfig.dev.json
+E:\CITP4350\Week3\Assignment3\Assignment3\bin\Debug\net5.0\Assignment3.dll
+E:\CITP4350\Week3\Assignment3\Assignment3\bin\Debug\net5.0\ref\Assignment3.dll
+E:\CITP4350\Week3\Assignment3\Assignment3\bin\Debug\net5.0\Assignment3.pdb
+E:\CITP4350\Week3\Assignment3\Assignment3\obj\Debug\net5.0\Assignment3.dll
+E:\CITP4350\Week3\Assignment3\Assignment3\obj\Debug\net5.0\ref\Assignment3.dll
+E:\CITP4350\Week3\Assignment3\Assignment3\obj\Debug\net5.0\Assignment3.pdb
+E:\CITP4350\Week3\Assignment3\Assignment3\obj\Debug\net5.0\Assignment3.genruntimeconfig.cache
